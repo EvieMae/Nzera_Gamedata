@@ -1,1 +1,1 @@
-{"cheese":{"Class":"item_food","Name":"Cheese Wheel","Description":"A fine artisanal cheese.","Weight":4,"Value":7,"stack":2,"data":{"heal":3,"hunger":12}},"bread":{"Class":"item_food","Name":"Bread","Description":"Brod","Weight":2,"Value":2,"stack":200,"data":{"heal":5,"hunger":6}}}
+{"cheese":{"Class":"item_food","Name":"Cheese Wheel","Description":"A fine artisanal cheese.","Weight":4,"Value":7,"stack":1000,"data":{"heal":3,"hunger":12}},"bread":{"Class":"item_food","Name":"Bread","Description":"Brod","Weight":2,"Value":2,"stack":200,"data":{"heal":5,"hunger":6}}}
